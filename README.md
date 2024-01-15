@@ -4,7 +4,7 @@ Hey there! Welcome to my tech journey. I'm on an exciting voyage exploring app a
 
 ## 🔗 Connect:
 
-- [Instagram](https://www.instagram.com/devkhushi/)
+- [Instagram](https://www.instagram.com/geekkhushii/)
 - [LinkedIn](https://www.linkedin.com/in/khushi-tiwari-2a48b822b/)
 
 ## 💻 Tech Arsenal:
