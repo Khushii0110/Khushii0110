@@ -1,29 +1,25 @@
-# 👋 Hello, I'm Khushi Tiwari!
+# 🚀 Journey in Tech:
 
-I'm a B.Tech CSE student at Indraprastha University, currently in my third year. I have a passion for coding and have experience with various programming languages and web development frameworks.
+Hey there! Welcome to my tech journey. I'm on an exciting voyage exploring app and web development, gem crafting, and diving deep into AI (NLP).
 
-## 🚀 Skills
+## 🔗 Connect:
 
-- **Languages:** Java, Python, C, C++, C#
-- **Web Development:** React, Next.js
-- **Other Technologies:** [List any other technologies you are familiar with]
+- [Instagram](https://www.instagram.com/your-instagram-username/)
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
 
-## 📊 GitHub Stats
+## 💻 Tech Arsenal:
 
-[![Khushi's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&count_private=true&show_icons=true&theme=radical)](https://github.com/Khushii0110)
+- C | C++ | Dart | Java | HTML5 | JavaScript | Kotlin | Python
+- Firebase | Netlify | Bootstrap | Flutter | Flask | ANDROID | LINUX | Arduino
 
-## 📈 Coding Stats
+## 📊 GitHub Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)](https://github.com/Khushii0110
+[![Khushii0110's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khushii0110&count_private=true&show_icons=true&theme=radical)](https://github.com/Khushii0110)
 
-## 🌐 Connect with Me
+## 🏆 GitHub Trophies:
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Portfolio/Personal Website]
-- [Other Social Media Profiles]
+[![Khushii0110's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Khushii0110&column=7&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🌟 Quote of the Day
+## ✍️ Dev Wisdom:
 
-> "Code is like humor. When you have to explain it, it’s bad." - Cory House
-
-Feel free to explore my repositories and connect with me. Happy coding! 🚀
+"Coding is not just about writing code; it's about creating a solution." 💡
