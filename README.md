@@ -4,13 +4,13 @@ Hey there! Welcome to my tech journey. I'm on an exciting voyage exploring app a
 
 ## 🔗 Connect:
 
-- [Instagram](https://www.instagram.com/your-instagram-username/)
-- [LinkedIn(https://www.linkedin.com/in/khushi-tiwari-2a48b822b/)
+- [Instagram](https://www.instagram.com/devkhushi/)
+- [LinkedIn](https://www.linkedin.com/in/khushi-tiwari-2a48b822b/)
 
 ## 💻 Tech Arsenal:
 
-- C | C++ | Dart | Java | HTML5 | JavaScript | Kotlin | Python
-- Firebase | Netlify | Bootstrap | Flutter | Flask | ANDROID | LINUX | Arduino
+- C | C++ | Dart | Java | HTML5 | JavaScript | Kotlin | Python | C#
+- Firebase | Netlify | Bootstrap | Flutter | Flask | ANDROID | LINUX | 
 
 ## 📊 GitHub Stats:
 
